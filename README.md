@@ -1,12 +1,6 @@
 # svnlogcommit
 This is the missing link between Subversion, JIRA and Slack, so that you can view a rolling display of your team's Subversion activities on a Slack channel of your choice.
 
-# NAME
-
-svnlogcommit.pl
-
-This script is the missing link between Subversion, JIRA and Slack, so that you can view a rolling display of your team's Subversion activities on a Slack channel of your choice.
-
 The script needs to be executed every time someone commits a file in Subversion and does the following:
 
 - Writes a message to Slack
